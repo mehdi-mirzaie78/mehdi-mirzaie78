@@ -7,7 +7,7 @@
     </picture>
 <br>
 
-- 🌱 I’m currently learning **Python** | **Django** | **Flask** | **SQL**
+- 🌱 I’m currently learning **Python** | **Django** | **Flask** | **PostgreSQL**
 
 - 💬  &nbsp;Ask me about **Python 🐍**
 
