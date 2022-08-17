@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mehdi Mirzaie</h1>
+<h1 align="center">Hi 👋, I'm Mehdi Mirzaie</h1>
 
 <h3 align="left">A passionate backend developer from Iran</h3>
 
