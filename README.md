@@ -5,7 +5,7 @@
     <picture align="right">
         <img align="right" width="300em" height="300em" src="https://github.com/mehdi-mirzaie78/mehdi-mirzaie78/blob/main/giphy.gif">
     </picture>
-
+<p>&nbsp;</p>
 - 🌱 I’m currently learning **Python** | **Django** | **Flask** | **PostgreSQL**
 
 - 💬  &nbsp;Ask me about **Python 🐍**
