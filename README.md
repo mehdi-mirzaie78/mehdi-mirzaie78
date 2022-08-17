@@ -2,7 +2,6 @@
 
 <h3 align="left">A passionate backend developer from Iran</h3>
 
----
 
 - 🌱 I’m currently learning **Python** | **Django** | **Flask** | **SQL**
 
