@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehdi Mirzaie</h1>
 <p>&nbsp;</p>
-<h3 align="left">A passionate backend developer from Iran</h3>
+<h3 align="left">A hardworking backend developer from Iran</h3>
 <div align="left">
     <picture align="right">
         <img align="right" width="300em" height="300em" src="https://github.com/mehdi-mirzaie78/mehdi-mirzaie78/blob/main/giphy.gif">
