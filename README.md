@@ -2,7 +2,7 @@
 <h3 align="left">A hardworking backend developer from Iran</h3>
 <div align="left">
     <picture align="right">
-        <img align="right" width="300em" height="300em" src="https://github.com/mehdi-mirzaie78/mehdi-mirzaie78/blob/main/gifgit.gif">
+        <img align="right" width="250em" height="250em" src="https://github.com/mehdi-mirzaie78/mehdi-mirzaie78/blob/main/gifgit.gif">
     </picture>
 <p>&nbsp;</p>
     
