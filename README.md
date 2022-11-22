@@ -64,7 +64,7 @@
 ---
 
    
-<div style="flex">
+<div style="flex; align:center">
     
 <img src="https://github-readme-stats.vercel.app/api?username=mehdi-mirzaie78&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" style="flex: 33.33%; padding: 5px;">
  
