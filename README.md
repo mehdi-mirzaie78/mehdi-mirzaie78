@@ -63,16 +63,15 @@
 
 ---
 
-<div align=center>    
-    
-<div style="flex">
-    
-<img src="https://github-readme-stats.vercel.app/api?username=mehdi-mirzaie78&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" style="flex: 33.33%; padding: 5px; width: fit-content">
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-mirzaie78&theme=dracula&hide_border=false" style="flex: 33.33%; padding: 5px;  width: fit-content">
 
-</div>
+<p align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mehdi-mirzaie78&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160px"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-mirzaie78&theme=monokai-metallian&hide_border=true" height="160px">
+</p>
+
 <br>
+    
+<div align=center>
     
 ![](https://github-profile-trophy.vercel.app/?username=mehdi-mirzaie78&theme=radical&no-frame=false&no-bg=true&margin-w=4)
     
