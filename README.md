@@ -72,9 +72,9 @@
     
 <div align=center>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mehdi-mirzaie78&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="95px">
+<img src="https://github-profile-trophy.vercel.app/?username=mehdi-mirzaie78&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="96px">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-mirzaie78&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="95px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-mirzaie78&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="96px">
     
 
 </div>
