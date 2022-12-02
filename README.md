@@ -20,7 +20,7 @@
 
 - 💬  &nbsp;Ask me about **Python 🐍**
 
-- 📫 How to reach me: <div><a href="https://www.linkedin.com/in/mehdi-mirzaie-dartooti/" target="_blank">
+- 📫 How to reach me: <div align=center><a href="https://www.linkedin.com/in/mehdi-mirzaie-dartooti/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
 </a>
 <a href="mehdimirzaie1378@gmail.com" target="_blank">
