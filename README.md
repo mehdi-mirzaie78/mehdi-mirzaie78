@@ -19,16 +19,16 @@
    
 <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=mehdi-mirzaie78&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehdi-mirzaie78&theme=dracula&hide_border=false)
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=mehdi-mirzaie78&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-mirzaie78&theme=dracula&hide_border=false" />
 
 </div>
 
 <div align=center>
  
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-mirzaie78&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-<img height="200em"  src='https://randommeme-five.vercel.app/'/>
-<img height="200em" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-mirzaie78&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="165px"  src='https://randommeme-five.vercel.app/'/>
+<img height="165px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
 
 </div>
 
