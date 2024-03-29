@@ -1,96 +1,48 @@
+ 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times&size=30&pause=1000&width=435&lines=Hi+Everyone%F0%9F%91%8B%2C+I'm+Mehdi+Mirzaie" alt="Typing SVG" /></a>
 </h1>
 
 
-<div align="right">
 
-[![](https://visitcount.itsvg.in/api?id=mehdi-mirzaie78&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
 
+# 💻 Tech Stack:
 
-<picture align="right">
-    <img align="right" border-radius="50%" width="250em" height="250em" src="https://github.com/mehdi-mirzaie78/mehdi-mirzaie78/blob/main/gifgit.gif">
-</picture>
+<div align="right" style="display:inline">
 
-
-<div align=left>
-    
-- 🌱 I’m currently learning **Python | Django | Flask | SQL**
-
-- 💬  &nbsp;Ask me about **Python 🐍**
-
-- 📫 How to reach me: <div align=center>
-<a href="https://www.linkedin.com/in/mehdi-mirzaie-dartooti/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
-</a>
-
-<a href="https://t.me/Mehdi_Mirzaieee" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo"  />
-</a>
-    
-<a href="mehdimirzaie1378@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
-</a>
-
-<a href="https://www.instagram.com/mehdi_mirzaie1378/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
-</a></div>
+[![](https://visitcount.itsvg.in/api?id=mehdi-mirzaie78&icon=8&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-    <p align="center">
-        <br>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-        </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> 
-        </a>
-        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> 
-        </a>
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-        </a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> 
-        </a> 
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> 
-        </a> 
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-        </a>
-        <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" /> 
-        </a>
-        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-        </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> 
-        </a> 
-        <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /> 
-        </a> 
-    </p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+</div>
 
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mehdi-mirzaie78&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165px"/>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-mirzaie78&theme=monokai-metallian&hide_border=true" height="165px">
-</p>
+
+
+<div align="right">
+    <img align="right" border-radius="50%" width="250em"  src='https://randommeme-five.vercel.app/'>
+</div>
+
+
 
     
 <div align=center>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mehdi-mirzaie78&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="96px">
+![](https://github-readme-stats.vercel.app/api?username=mehdi-mirzaie78&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehdi-mirzaie78&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-mirzaie78&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-mirzaie78&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="97px">
-    
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mehdi-mirzaie78&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 </div>
+
+
+
 
